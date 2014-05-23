@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SplitCalc</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="result_textView">Result</string>
+    <string name="input_textView">Input</string>
+    
+    <string name="undo_button">Undo</string>
+    <string name="clear_button">Clear</string>
+    <string name="Evaluate_button">Evaluate</string>
+
+</resources>
